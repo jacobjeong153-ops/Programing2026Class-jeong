@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\2025011039\\Programing2026Class-jeong\\Test_Scanf_s\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20793C89-7BC5-48CB-A079-BAA166E6B102}|Test_Scanf_s\\Test_Scanf_s.vcxproj|C:\\2025011039\\Programing2026Class-jeong\\Test_Scanf_s\\Test_Scanf_s\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20793C89-7BC5-48CB-A079-BAA166E6B102}|Test_Scanf_s\\Test_Scanf_s.vcxproj|solutionrelative:Test_Scanf_s\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\2025011039\\Programing2026Class-jeong\\Test_Scanf_s\\Test_Scanf_s\\main.cpp",
+              "RelativeDocumentMoniker": "Test_Scanf_s\\main.cpp",
+              "ToolTip": "C:\\2025011039\\Programing2026Class-jeong\\Test_Scanf_s\\Test_Scanf_s\\main.cpp",
+              "RelativeToolTip": "Test_Scanf_s\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-23T02:38:00.752Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
