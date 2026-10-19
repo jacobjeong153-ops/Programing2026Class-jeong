@@ -3,8 +3,7 @@
   "WorkspaceRootPath": "C:\\2025011039\\Programing2026Class-jeong\\money\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7449936D-5C3D-4424-B34D-90CBBC063D2E}|money\\money.vcxproj|C:\\2025011039\\Programing2026Class-jeong\\money\\money\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7449936D-5C3D-4424-B34D-90CBBC063D2E}|money\\money.vcxproj|solutionrelative:money\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\2025011039\\Programing2026Class-jeong\\time.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,15 +18,13 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\2025011039\\Programing2026Class-jeong\\money\\money\\main.cpp",
-              "RelativeDocumentMoniker": "money\\main.cpp",
-              "ToolTip": "C:\\2025011039\\Programing2026Class-jeong\\money\\money\\main.cpp*",
-              "RelativeToolTip": "money\\main.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Title": "time.cpp",
+              "DocumentMoniker": "C:\\2025011039\\Programing2026Class-jeong\\time.cpp",
+              "RelativeDocumentMoniker": "..\\time.cpp",
+              "ToolTip": "C:\\2025011039\\Programing2026Class-jeong\\time.cpp",
+              "RelativeToolTip": "..\\time.cpp",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-09-30T01:58:55.414Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-30T01:58:55.414Z"
             }
           ]
         }
