@@ -44,7 +44,7 @@ int main(void)
 int get_menu_choice()
 {
     int choice;
-    printf("\n===== Ohm's Law Calculator =====\n");
+    printf("===== Ohm's Law Calculator =====\n");
     printf("1. Voltage  2. Current  3. Resistance  4. Sweep table  0. Exit\n");
     printf("Select: ");
     scanf_s("%d", &choice);
