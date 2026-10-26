@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\2025011039\Programing2026Class-jeong\Parking_payment\Parking_payment\main.cpp(7,33): warning C4101: 'electric_car' :참조되지 않은 지역 변수입니다.
+C:\2025011039\Programing2026Class-jeong\Parking_payment\Parking_payment\main.cpp(7,20): warning C4101: 'regular_car' :참조되지 않은 지역 변수입니다.
+C:\2025011039\Programing2026Class-jeong\Parking_payment\Parking_payment\main.cpp(7,7): warning C4101: 'compact_car' :참조되지 않은 지역 변수입니다.
+C:\2025011039\Programing2026Class-jeong\Parking_payment\Parking_payment\main.cpp(8,7): warning C4101: 'time' :참조되지 않은 지역 변수입니다.
+  Parking_payment.vcxproj -> C:\2025011039\Programing2026Class-jeong\Parking_payment\x64\Debug\Parking_payment.exe
