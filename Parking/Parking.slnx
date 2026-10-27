@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Parking.vcxproj" Id="6f91939c-3082-406f-acfa-036ea0ba0bf5" />
+</Solution>
